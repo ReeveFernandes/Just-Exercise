@@ -8,6 +8,14 @@ The application programmers learnt how to use Mediapipe for python durng the hac
 
 The porgrammers faced challenges while trying to code the joint-to-joint connection of a human body (required to properly count reps) into the program. This process alone took a lot of trial and error to be implemented. Currently, the app can only recognise 5 types of exercise. We hope to program it to recognise more soon!
 
+# Table of Contents
+
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+## My first title
+Some text.
+## My second title
+
 
 
 
